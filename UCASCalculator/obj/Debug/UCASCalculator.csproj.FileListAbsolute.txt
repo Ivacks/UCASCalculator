@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#\UCASCalculator\UCASCalculator\bin\Debug\UCASCalculator.exe.config
+C:\Users\user\Desktop\C#\UCASCalculator\UCASCalculator\bin\Debug\UCASCalculator.exe
+C:\Users\user\Desktop\C#\UCASCalculator\UCASCalculator\bin\Debug\UCASCalculator.pdb
+C:\Users\user\Desktop\C#\UCASCalculator\UCASCalculator\obj\Debug\UCASCalculator.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#\UCASCalculator\UCASCalculator\obj\Debug\UCASCalculator.Form1.resources
+C:\Users\user\Desktop\C#\UCASCalculator\UCASCalculator\obj\Debug\UCASCalculator.Properties.Resources.resources
+C:\Users\user\Desktop\C#\UCASCalculator\UCASCalculator\obj\Debug\UCASCalculator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\UCASCalculator\UCASCalculator\obj\Debug\UCASCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\UCASCalculator\UCASCalculator\obj\Debug\UCASCalculator.exe
+C:\Users\user\Desktop\C#\UCASCalculator\UCASCalculator\obj\Debug\UCASCalculator.pdb
